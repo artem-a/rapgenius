@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
     private API in the 'Genius' iOS app you can access the wealth of data on
     the internet Talmud in Ruby.}
 
-  s.add_runtime_dependency "httparty",    "~>0.11.0"
+  s.add_runtime_dependency "httparty",    "~>0.13.0"
   s.add_development_dependency "rspec",   "~>2.14.1"
   s.add_development_dependency "mocha",   "~>0.14.0"
   s.add_development_dependency "webmock", "~>1.11.0"
